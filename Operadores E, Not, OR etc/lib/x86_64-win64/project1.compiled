@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1497193866"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\julio\Desktop\Operadores E, Not, OR etc\lib\x86_64-win64&quot; &quot;-FuC:\Users\julio\Desktop\Operadores E, Not, OR etc\&quot; &quot;-FUC:\Users\julio\Desktop\Operadores E, Not, OR etc\lib\x86_64-win64\&quot; &quot;-FEC:\Users\julio\Desktop\Operadores E, Not, OR etc\&quot; &quot;-oC:\Users\julio\Desktop\Operadores E, Not, OR etc\project1.exe&quot; project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
